@@ -1,0 +1,25 @@
+.nav{
+  height: 7vh;
+  width: 100vw;
+  display: flex;
+  align-content: center;
+  background-color: #202020;
+  color: white;
+}
+body{
+  margin: 0;
+}
+.space{
+  width: 75vw;
+  height: 7vh;
+  float: left;
+  margin-left: 13px;
+}
+.items{
+  height: 7vh;
+width: 10vw;
+display: flex;
+align-items: center;
+  height: 7vh;
+  right: 0;
+}
