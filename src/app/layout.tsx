@@ -40,10 +40,10 @@ export default function RootLayout({
             <h3>Dev-cloth</h3>
             </div>
             <div className="items">
-            <SignedOut className="sign" >
+            <SignedOut >
               <SignUpButton />
             </SignedOut>
-            <SignedIn className="sign">
+            <SignedIn>
               <UserButton />
             </SignedIn>
             </div>
