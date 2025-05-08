@@ -9,7 +9,7 @@ import {
   UserButton,
 } from '@clerk/nextjs'
 import { Geist, Geist_Mono } from 'next/font/google'
-import './globals.css'
+import "./globals.css"
 import style from "./globals.css"
 
 const geistSans = Geist({
