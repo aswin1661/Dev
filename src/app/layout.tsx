@@ -37,7 +37,7 @@ export default function RootLayout({
         <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
           <div className="nav">
             <div className="space">
-            <h3>Dev-cloth</h3>
+            <h3>Dev</h3>
             </div>
             <div className="items">
             <SignedOut >
